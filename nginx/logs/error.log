@@ -1,0 +1,15 @@
+2021/05/18 13:27:27 [warn] 1#1: conflicting server name "_" on 0.0.0.0:443, ignored
+2021/05/18 13:49:13 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nextcloud.conf:24
+2021/05/18 13:49:14 [emerg] 1#1: host not found in upstream "onlyoffice" in /etc/nginx/conf.d/nextcloud.conf:43
+2021/05/18 13:49:15 [emerg] 1#1: host not found in upstream "onlyoffice" in /etc/nginx/conf.d/nextcloud.conf:43
+2021/05/18 13:49:16 [emerg] 1#1: host not found in upstream "onlyoffice" in /etc/nginx/conf.d/nextcloud.conf:43
+2021/05/18 13:49:17 [emerg] 1#1: host not found in upstream "onlyoffice" in /etc/nginx/conf.d/nextcloud.conf:43
+2021/05/18 13:49:20 [emerg] 1#1: host not found in upstream "onlyoffice" in /etc/nginx/conf.d/nextcloud.conf:43
+2021/05/18 13:49:23 [emerg] 1#1: host not found in upstream "onlyoffice" in /etc/nginx/conf.d/nextcloud.conf:43
+2021/05/18 13:49:30 [emerg] 1#1: host not found in upstream "onlyoffice" in /etc/nginx/conf.d/nextcloud.conf:43
+2021/05/18 13:49:44 [emerg] 1#1: host not found in upstream "onlyoffice" in /etc/nginx/conf.d/nextcloud.conf:43
+2021/05/18 13:50:10 [emerg] 1#1: host not found in upstream "onlyoffice" in /etc/nginx/conf.d/nextcloud.conf:43
+2021/05/18 13:51:02 [emerg] 1#1: host not found in upstream "onlyoffice" in /etc/nginx/conf.d/nextcloud.conf:43
+2021/05/18 13:52:02 [emerg] 1#1: host not found in upstream "onlyoffice" in /etc/nginx/conf.d/nextcloud.conf:43
+2021/05/18 13:52:36 [emerg] 1#1: host not found in upstream "onlyoffice" in /etc/nginx/conf.d/nextcloud.conf:43
+2021/05/18 13:52:37 [warn] 1#1: conflicting server name "_" on 0.0.0.0:443, ignored

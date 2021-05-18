@@ -1,0 +1,138 @@
+18 May 13:01:09 - [765] reading config file: ./config/config.js
+18 May 13:01:09 - server is up INFO
+Flushing stats at  Tue May 18 2021 13:11:09 GMT+0000 (Coordinated Universal Time)
+{ counters:
+   { 'statsd.bad_lines_seen': 0,
+     'statsd.packets_received': 0,
+     'statsd.metrics_received': 0 },
+  timers: {},
+  gauges: {},
+  timer_data: {},
+  counter_rates:
+   { 'statsd.bad_lines_seen': 0,
+     'statsd.packets_received': 0,
+     'statsd.metrics_received': 0 },
+  sets: {},
+  pctThreshold: [ 90 ] }
+Flushing stats at  Tue May 18 2021 13:21:09 GMT+0000 (Coordinated Universal Time)
+{ counters:
+   { 'statsd.bad_lines_seen': 0,
+     'statsd.packets_received': 0,
+     'statsd.metrics_received': 0 },
+  timers: {},
+  gauges: { 'statsd.timestamp_lag': 0 },
+  timer_data: {},
+  counter_rates:
+   { 'statsd.bad_lines_seen': 0,
+     'statsd.packets_received': 0,
+     'statsd.metrics_received': 0 },
+  sets: {},
+  pctThreshold: [ 90 ] }
+Flushing stats at  Tue May 18 2021 13:31:09 GMT+0000 (Coordinated Universal Time)
+{ counters:
+   { 'statsd.bad_lines_seen': 0,
+     'statsd.packets_received': 0,
+     'statsd.metrics_received': 0 },
+  timers: {},
+  gauges: { 'statsd.timestamp_lag': 0 },
+  timer_data: {},
+  counter_rates:
+   { 'statsd.bad_lines_seen': 0,
+     'statsd.packets_received': 0,
+     'statsd.metrics_received': 0 },
+  sets: {},
+  pctThreshold: [ 90 ] }
+Flushing stats at  Tue May 18 2021 13:41:09 GMT+0000 (Coordinated Universal Time)
+{ counters:
+   { 'statsd.bad_lines_seen': 0,
+     'statsd.packets_received': 0,
+     'statsd.metrics_received': 0 },
+  timers: {},
+  gauges: { 'statsd.timestamp_lag': 0 },
+  timer_data: {},
+  counter_rates:
+   { 'statsd.bad_lines_seen': 0,
+     'statsd.packets_received': 0,
+     'statsd.metrics_received': 0 },
+  sets: {},
+  pctThreshold: [ 90 ] }
+18 May 13:53:44 - [765] reading config file: ./config/config.js
+18 May 13:53:44 - server is up INFO
+Flushing stats at  Tue May 18 2021 14:03:45 GMT+0000 (Coordinated Universal Time)
+{ counters:
+   { 'statsd.bad_lines_seen': 0,
+     'statsd.packets_received': 0,
+     'statsd.metrics_received': 0 },
+  timers: {},
+  gauges: {},
+  timer_data: {},
+  counter_rates:
+   { 'statsd.bad_lines_seen': 0,
+     'statsd.packets_received': 0,
+     'statsd.metrics_received': 0 },
+  sets: {},
+  pctThreshold: [ 90 ] }
+18 May 14:07:09 - [779] reading config file: ./config/config.js
+18 May 14:07:09 - server is up INFO
+Flushing stats at  Tue May 18 2021 14:17:10 GMT+0000 (Coordinated Universal Time)
+{ counters:
+   { 'statsd.bad_lines_seen': 0,
+     'statsd.packets_received': 0,
+     'statsd.metrics_received': 0 },
+  timers: {},
+  gauges: {},
+  timer_data: {},
+  counter_rates:
+   { 'statsd.bad_lines_seen': 0,
+     'statsd.packets_received': 0,
+     'statsd.metrics_received': 0 },
+  sets: {},
+  pctThreshold: [ 90 ] }
+Flushing stats at  Tue May 18 2021 14:27:10 GMT+0000 (Coordinated Universal Time)
+{ counters:
+   { 'statsd.bad_lines_seen': 0,
+     'statsd.packets_received': 0,
+     'statsd.metrics_received': 0 },
+  timers: {},
+  gauges: { 'statsd.timestamp_lag': 0 },
+  timer_data: {},
+  counter_rates:
+   { 'statsd.bad_lines_seen': 0,
+     'statsd.packets_received': 0,
+     'statsd.metrics_received': 0 },
+  sets: {},
+  pctThreshold: [ 90 ] }
+18 May 14:37:33 - [764] reading config file: ./config/config.js
+18 May 14:37:33 - server is up INFO
+18 May 14:39:15 - [766] reading config file: ./config/config.js
+18 May 14:39:15 - server is up INFO
+18 May 14:50:09 - [764] reading config file: ./config/config.js
+18 May 14:50:09 - server is up INFO
+Flushing stats at  Tue May 18 2021 15:00:09 GMT+0000 (Coordinated Universal Time)
+{ counters:
+   { 'statsd.bad_lines_seen': 0,
+     'statsd.packets_received': 0,
+     'statsd.metrics_received': 0 },
+  timers: {},
+  gauges: {},
+  timer_data: {},
+  counter_rates:
+   { 'statsd.bad_lines_seen': 0,
+     'statsd.packets_received': 0,
+     'statsd.metrics_received': 0 },
+  sets: {},
+  pctThreshold: [ 90 ] }
+Flushing stats at  Tue May 18 2021 15:10:09 GMT+0000 (Coordinated Universal Time)
+{ counters:
+   { 'statsd.bad_lines_seen': 0,
+     'statsd.packets_received': 0,
+     'statsd.metrics_received': 0 },
+  timers: {},
+  gauges: { 'statsd.timestamp_lag': 0 },
+  timer_data: {},
+  counter_rates:
+   { 'statsd.bad_lines_seen': 0,
+     'statsd.packets_received': 0,
+     'statsd.metrics_received': 0 },
+  sets: {},
+  pctThreshold: [ 90 ] }
